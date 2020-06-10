@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+
+    <string name="global_data">Global Data</string>
+    <string name="country_data">Country Data</string>
+    <string name="about">About</string>
+
+    <string name="global_covid_19_ncases">Global COVID-19\ncases</string>
+
+    <string name="total_active">Affected</string>
+    <string name="total_death">Death</string>
+    <string name="total_recovered">Recovered</string>
+    <string name="total_critical">Critical</string>
+
+    <string name="country_name">Country Name</string>
+    <string name="country_cases">520050</string>
+    <string name="nav_search">Search</string>
+</resources>
